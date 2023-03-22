@@ -4,9 +4,9 @@ Saya Ayurika Sinambela 2003717 mengerjakan Latihan 5 dalam mata kuliah DPBO untu
 
 ## Desain
 Program ini terdiri dari dua class, yaitu kelas Menu dan class Mahasiswa
-- Kelas Menu
+- Kelas Menu <br>
 Kelas Menu berfungsi untuk menampilkan pilihan menu dan menerima input dari user untuk memilih aksi yang ingin dilakukan pada data mahasiswa. Terdapat metode-metode seperti menampilkan daftar mahasiswa, menambah data mahasiswa baru, mengubah data mahasiswa, menghapus data mahasiswa, dan reset form. Kelas ini juga berisi method untuk memproses input dari user dan memanggil method-method dari kelas Mahasiswa untuk melakukan operasi pada data mahasiswa.
-- Kelas Mahasiswa
+- Kelas Mahasiswa <br>
 Kelas Mahasiswa berfungsi untuk merepresentasikan data mahasiswa yang terdiri dari NIM, Nama, Nilai, dan Gender. Kelas ini berisi konstruktor dan getter/setter method untuk mengakses dan mengubah nilai dari atribut-atribut yang ada pada kelas Mahasiswa.
 
 ## Alur Program
