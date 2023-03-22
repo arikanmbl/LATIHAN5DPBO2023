@@ -24,18 +24,25 @@ Program ini memiliki alur sebagai berikut:
 ### Create data
 - Mengisi form
 ![2](https://user-images.githubusercontent.com/71563980/226944245-8ccc63df-da62-402e-b34e-e55ed21bcdd4.png)
+
 - Confirmation message saat data berhasil ditambahkan
 ![3](https://user-images.githubusercontent.com/71563980/226944672-6ebbdabf-03ef-4d5e-9019-410ae3c11ecd.png)
+
 - Jika ada field yang belum terisi
 ![8](https://user-images.githubusercontent.com/71563980/226946734-73c8d42e-d46a-4240-9b23-6a403d8d5cdd.png)
+
 ![9](https://user-images.githubusercontent.com/71563980/226946748-f6e48b69-6773-4cbb-b2fe-4a592e662c59.png)
+
 ### Update data
 - Memilih data yang ingin diubah. Otomatis form akan terisi data sebelumnya dan pengguna bisa mengubahnya di field yang diinginkan.
 ![4](https://user-images.githubusercontent.com/71563980/226944850-71703b81-ca17-421e-88cc-117945cd7007.png)
+
 - Confirmation message saat data berhasil diubah
 ![5](https://user-images.githubusercontent.com/71563980/226945104-d024d55f-038f-4e22-a777-8c121fea482d.png)
+
 ### Delete data
 - Memilih data yang ingin dihapus dan menekan button "Delete", muncul confirmation message apakah benar ingin menghapus data atau tidak
 ![6](https://user-images.githubusercontent.com/71563980/226945855-3fe3b669-d97d-4e7a-8bcf-b5df3c83b1dd.png)
+
 - Confirmation message saat data berhasil dihapus
 ![7](https://user-images.githubusercontent.com/71563980/226946074-d67e7532-4a37-4b39-b9e2-7819648590f0.png)
